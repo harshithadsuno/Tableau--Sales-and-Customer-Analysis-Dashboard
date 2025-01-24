@@ -23,3 +23,7 @@ This dashboard empowers organizations to make better business decisions by under
 What products drive the most revenue?
 Who are the most valuable customers?
 How can sales trends guide future strategies?
+📂 How to Use
+Open the link to the dashboard above.
+Interact with filters to analyze data from different perspectives.
+Use the insights to drive business decisions effectively.
