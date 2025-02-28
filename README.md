@@ -1,5 +1,8 @@
 # 📊 **Sales & Customer Analysis Dashboard**
 
+## 🌐 **Explore the Dashboard**
+👉 Check out the live dashboard here: [**Sales and Customer Analysis Dashboard**](https://public.tableau.com/app/profile/harshitha.devi.sunkara2308/viz/SalesandCustomerInsightsWorkbook/SalesDashboard)
+
 ## 🚀 **Project Overview**
 This **interactive Tableau dashboard** provides a comprehensive analysis of sales and customer data, helping uncover actionable insights for data-driven decision-making.
 
@@ -17,11 +20,6 @@ This **interactive Tableau dashboard** provides a comprehensive analysis of sale
 - ✅ **Identified sales trends** and patterns to guide strategic planning.
 - ✅ **Revealed customer behavior** and preferences to improve targeting.
 - ✅ **Pinpointed high-performing products** for better inventory management.
-
----
-
-## 🌐 **Explore the Dashboard**
-👉 Check out the live dashboard here: [**Sales and Customer Analysis Dashboard**](https://public.tableau.com/app/profile/harshitha.devi.sunkara2308/viz/SalesandCustomerInsightsWorkbook/SalesDashboard)
 
 ---
 
